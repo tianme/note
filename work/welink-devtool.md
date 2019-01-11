@@ -115,11 +115,11 @@ welink-devtool
 
 浏览器输入：http://localhost:3000/project/index.html
 
-**备注：`http://localhost:3000/project/index.html` 中的 project 是 welinkconfig.json 文件中设置的 staticPath 的值**
+**备注：`http://localhost:3000/project/index.html` 中的 project 是 welinkconfig.json 文件中设置的 staticPath 的值**
 
 ### vue 开发者
 
-我们提供了 **[vue-stone](https://jd-smart-fe.github.io/vue-stone/#/) 组件库** 和 **vue 工程化开发模板**。
+我们提供了 **[vue-stone](https://jd-smart-fe.github.io/vue-stone/#/) 组件库** 和 **vue 工程化开发模板**。
 
 #### 什么是 vue 工程化开发模板？
 
@@ -127,13 +127,13 @@ welink-devtool
 
 #### 如何使用 vue 工程化开发模板?
 
-全局安装 `welink-cli`
+全局安装 `welink-cli`
 
 ```
 npm install welink-cli -g
 ```
 
-通过 `welink init` 命令下载模板
+通过 `welink init` 命令下载模板
 
 ```
 welink init demo
@@ -148,9 +148,9 @@ npm install
 
 #### 设置 `authenticationTokenKey`
 
-在 demo 文件夹中找到 `welinkconfig.json` 设置 `authenticationTokenKey`（获取方式同上）
+在 demo 文件夹中找到 `welinkconfig.json` 设置 `authenticationTokenKey`（获取方式同上）
 
-#### dev
+#### dev
 自动引入调试环境的 SDK
 ```
 npm run dev
