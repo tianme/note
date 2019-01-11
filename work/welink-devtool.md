@@ -115,7 +115,7 @@ welink-devtool
 
 浏览器输入：http://localhost:3000/project/index.html
 
-**备注：`http://localhost:3000/project/index.html` 中的 project 是 welinkconfig.json 文件中设置的 staticPath 的值**
+**备注：`http://localhost:3000/project/index.html` 中的 project 是 welinkconfig.json 文件中设置的 staticPath 的值**
 
 ### vue 开发者
 
